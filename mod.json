@@ -1,0 +1,16 @@
+
+{
+    "geode": "v5.0.0",
+    "gd": {
+        "win": "*",
+        "mac": "*",
+        "android": "*",
+        "ios": "*"
+    },
+    "id": "nextbot.autodecorate",
+    "name": "AutoDecorate",
+    "version": "v1.0.0",
+    "developer": "NextBot",
+    "description": "Automatic level decoration generator for Geometry Dash.",
+    "dependencies": {}
+}
